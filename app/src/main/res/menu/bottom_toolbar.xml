@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/ic_alarm_black_24dp"
+        android:title="Alarm" />
+
+    <item
+        android:id="@+id/nav_dreams"
+        android:icon="@drawable/ic_cloud_black_24dp"
+        android:title="Dreams" />
+
+    <item
+        android:id="@+id/nav_stats"
+        android:icon="@drawable/ic_show_chart_black_24dp"
+        android:title="Stats" />
+
+
+
+</menu>
